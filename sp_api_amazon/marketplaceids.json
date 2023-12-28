@@ -1,0 +1,181 @@
+[
+  {
+    "sources": {
+      "mws": "https://docs.developer.amazonservices.com/en_UK/dev_guide/DG_Endpoints.html",
+      "sp-api": "https://developer-docs.amazon.com/amazon-shipping/docs/marketplace-ids"
+    },
+    "comment1": "all endpoint source are from sources.mws",
+    "comment2": "mws marketplaces number = 21",
+    "comment3": "sp-api marketplaces number = 19, (mp excluded: BG, AS)",
+    "comment4": "mws GB = sp-api UK"
+  },
+  {
+    "code": "AE",
+    "country": "United Arab Emirates",
+    "marketplace_id": "A2VIGQ35RCS4UG",
+    "zone": "Europe",
+    "endpoint": "mws.amazonservices.ae",
+    "source": "sp-api"
+  },
+  {
+    "code": "AU",
+    "country": "Australia",
+    "marketplace_id": "A39IBJ37TRP1C6",
+    "zone": "Far East",
+    "endpoint": "mws.amazonservices.com.au",
+    "source": "sp-api"
+  },
+  {
+    "code": "BG",
+    "country": "Belgium",
+    "marketplace_id": "AMEN7PMS3EDWL",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "mws"
+  },
+  {
+    "code": "BR",
+    "country": "Brazil",
+    "marketplace_id": "A2Q3Y263D00KWC",
+    "zone": "North America",
+    "endpoint": "mws.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "CA",
+    "country": "Canada",
+    "marketplace_id": "A2EUQ1WTGCTBG2",
+    "zone": "North America",
+    "endpoint": "mws.amazonservices.ca",
+    "source": "sp-api"
+  },
+  {
+    "code": "DE",
+    "country": "Germany",
+    "marketplace_id": "A1PA6795UKMFR9",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "EG",
+    "country": "Egypt",
+    "marketplace_id": "ARBP9OOSHTCHU",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "ES",
+    "country": "Spain",
+    "marketplace_id": "A1RKKUPIHCS9HS",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "FR",
+    "country": "France",
+    "marketplace_id": "A13V1IB3VIYZZH",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "IN",
+    "country": "India",
+    "marketplace_id": "A21TJRUUN4KGV",
+    "zone": "Europe",
+    "endpoint": "mws.amazonservices.in",
+    "source": "sp-api"
+  },
+  {
+    "code": "IT",
+    "country": "Italy",
+    "marketplace_id": "APJ6JRA9NG5V4",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "JP",
+    "country": "Japan",
+    "marketplace_id": "A1VC38T7YXB528",
+    "zone": "Far East",
+    "endpoint": "mws.amazonservices.jp",
+    "source": "sp-api"
+  },
+  {
+    "code": "MX",
+    "country": "Mexico",
+    "marketplace_id": "A1AM78C64UM0Y8",
+    "zone": "North America",
+    "endpoint": "mws.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "NL",
+    "country": "Netherlands",
+    "marketplace_id": "A1805IZSGTT6HS",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "PL",
+    "country": "Poland",
+    "marketplace_id": "A1C3SOZRARQ6R3",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "SA",
+    "country": "Saudi Arabia",
+    "marketplace_id": "A17E79C6D8DWNP",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "mws"
+  },
+  {
+    "code": "SE",
+    "country": "Sweden",
+    "marketplace_id": "A2NODRKZP88ZB9",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "marketplace_id": "A19VAU5U5O7RUS",
+    "zone": "Far East",
+    "endpoint": "mws-fe.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "TR",
+    "country": "Turkey",
+    "marketplace_id": "A33AVAJ2PDY3EV",
+    "zone": "Europe",
+    "endpoint": "mws-eu.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "UK",
+    "country": "United Kingdom",
+    "marketplace_id": "A1F83G8C2ARO7P",
+    "zone": "Europe",
+    "mw code": "GB",
+    "endpoint": "mws-fe.amazonservices.com",
+    "source": "sp-api"
+  },
+  {
+    "code": "US",
+    "country": "United States of America",
+    "marketplace_id": "ATVPDKIKX0DER",
+    "zone": "North America",
+    "endpoint": "mws.amazonservices.com",
+    "source": "sp-api"
+  }
+]

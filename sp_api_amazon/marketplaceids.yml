@@ -1,0 +1,24 @@
+# https://developer-docs.amazon.com/amazon-shipping/docs/marketplace-ids
+# Country, Marketplace ID, Country code
+North America:
+- [Canada, A2EUQ1WTGCTBG2, CA]
+- [United States of America, ATVPDKIKX0DER, US]
+- [Mexico, A1AM78C64UM0Y8, MX]
+- [Brazil, A2Q3Y263D00KWC, BR]
+Europe:
+- [Spain, A1RKKUPIHCS9HS, ES]
+- [United Kingdom, A1F83G8C2ARO7P, UK]
+- [France, A13V1IB3VIYZZH, FR]
+- [Netherlands, A1805IZSGTT6HS, NL]
+- [Germany, A1PA6795UKMFR9, DE]
+- [Italy, APJ6JRA9NG5V4, IT]
+- [Sweden, A2NODRKZP88ZB9, SE]
+- [Poland, A1C3SOZRARQ6R3, PL]
+- [Egypt, ARBP9OOSHTCHU, EG]
+- [Turkey, A33AVAJ2PDY3EV, TR]
+- [United Arab Emirates, A2VIGQ35RCS4UG, AE]
+- [India, A21TJRUUN4KGV, IN]
+Far East:
+- [Singapore, A19VAU5U5O7RUS, SG]
+- [Australia, A39IBJ37TRP1C6, AU]
+- [Japan, A1VC38T7YXB528, JP]

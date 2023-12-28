@@ -1,0 +1,21 @@
+# https://docs.developer.amazonservices.com/en_UK/dev_guide/DG_Endpoints.html
+AE	mws.amazonservices.ae	A2VIGQ35RCS4UG
+AU	mws.amazonservices.com.au	A39IBJ37TRP1C6
+BR	mws.amazonservices.com	A2Q3Y263D00KWC
+CA	mws.amazonservices.ca	A2EUQ1WTGCTBG2
+DE	mws-eu.amazonservices.com	A1PA6795UKMFR9
+EG	mws-eu.amazonservices.com	ARBP9OOSHTCHU
+ES	mws-eu.amazonservices.com	A1RKKUPIHCS9HS
+FR	mws-eu.amazonservices.com	A13V1IB3VIYZZH
+GB	mws-eu.amazonservices.com	A1F83G8C2ARO7P
+IN	mws.amazonservices.in	A21TJRUUN4KGV
+IT	mws-eu.amazonservices.com	APJ6JRA9NG5V4
+JP	mws.amazonservices.jp	A1VC38T7YXB528
+MX	mws.amazonservices.com.mx	A1AM78C64UM0Y8
+NL	mws-eu.amazonservices.com	A1805IZSGTT6HS
+PL	mws-eu.amazonservices.com	A1C3SOZRARQ6R3
+SA	mws-eu.amazonservices.com	A17E79C6D8DWNP
+SE	mws-eu.amazonservices.com	A2NODRKZP88ZB9
+SG	mws-fe.amazonservices.com	A19VAU5U5O7RUS
+TR	mws-eu.amazonservices.com	A33AVAJ2PDY3EV
+US	mws.amazonservices.com	ATVPDKIKX0DER
